@@ -22,6 +22,7 @@
   font-weight: 400;
   line-height: 28px; /* 200% */
   margin: 0 10px;
+  text-decoration: none;
 }
 .btn {
   width: 102px;
@@ -48,4 +49,103 @@
   font-style: normal;
   font-weight: 600;
   line-height: normal;
+}
+.main{
+
+height:450px;
+display: flex;
+justify-content: space-between;
+
+}
+.txt{
+color: #2F281E;
+width: 518px;
+font-family: Poppins;
+font-size: 44px;
+font-style: normal;
+font-weight: 700;
+line-height: 54px; /* 122.727% */
+}
+.txt1{
+  color: #544837;
+width: 458px;
+height: 95px;
+flex-shrink: 0;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+}
+.getStarted{
+border-radius: 4px;
+background: #F90;
+width: 175px;
+height: 53px;
+flex-shrink: 0;
+color:white;
+font-size: 20px;
+border: 2px solid #F90;
+
+}
+.video{
+  color: #F90;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-decoration-line: underline;
+margin-left:10px;
+}
+.svg{
+  margin-left: 40px;
+  
+}
+.divFoto{
+  
+height: 438px;
+flex-shrink: 0;
+fill: #FFE5D2;
+}
+.teksti{
+  margin-left:500px;
+color: #2F281E;
+justify-content: center;
+ text-align: center;
+font-family: Poppins;
+font-size: 50px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 400px;
+flex-shrink: 0;
+}
+.future{
+height: 543px;
+flex-shrink: 0;
+margin-top:0;
+display: flex;
+justify-content: space-around;
+}
+.first{
+  color: #2F281E;
+font-family: Poppins;
+font-size: 22px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+width:150px;
+}
+.firstxt p{
+  color: #544837;
+
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 26px; /* 162.5% */
+}
+.box1{
+  width:150px;
 }
